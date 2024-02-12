@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r3nard-bl3u
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m a Data Analyst 
 - 🌱 I’m currently learning Data Science with IBM
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ajimotokanjohnson@gmail.com
 
 <!---
