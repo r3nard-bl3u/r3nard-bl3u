@@ -6,7 +6,6 @@ A passionate Data Analyst
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ajimotokanjohnson@gmail.com](mailto:ajimotokanjohnson@gmail.com)
-* 🧠  I'm learning Data Science
 * ⚡  I'm a proficient statistician
 
 <a href="https://www.github.com/r3nard-bl3u" target="_blank" rel="noreferrer"><img
